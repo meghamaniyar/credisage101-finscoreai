@@ -1,0 +1,7 @@
+{
+  "name": "FinScoreAI",
+  "description": "A high-conversion financial lead generation platform offering instant CIBIL score checks, AI-driven financial insights, and loan refinancing opportunities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
